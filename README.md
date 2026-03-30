@@ -48,7 +48,7 @@ The project includes:
 5. Protocol distribution
 
 # Future Improvements
-. Streamlit dashboard
+. Streamlit dashboad
 . Isolation Forest anomaly detection
 . Database integration
 . Real-time packet capture integration
