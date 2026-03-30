@@ -41,3 +41,5 @@ for log in logs:
     })
 
 parsed_logs
+
+alerts = detect_threats(parsed_logs)
