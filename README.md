@@ -1,7 +1,7 @@
 # SIEM-Detection-System
 
 # Project Overview
-his project is a SIEM-like security monitoring system built in Python to simulate a real SOC workflow. It processes authentication logs, applies multiple rule-based detection techniques to identify suspicious activity such as brute force attacks, unusual login times, high activity IPs, and potential account compromise, and enriches alerts with GeoIP information. The system also integrates Wireshark network traffic analysis to detect suspicious protocols, abnormal packet sizes, and unusual traffic patterns. High severity alerts are automatically escalated through email notifications, and the project includes visualizations to analyze alert trends, suspicious IPs, protocols, and attack origins.
+This project is a SIEM-like security monitoring system built in Python to simulate a real SOC workflow. It processes authentication logs, applies multiple rule-based detection techniques to identify suspicious activity such as brute force attacks, unusual login times, high activity IPs, and potential account compromise, and enriches alerts with GeoIP information. The system also integrates Wireshark network traffic analysis to detect suspicious protocols, abnormal packet sizes, and unusual traffic patterns. High severity alerts are automatically escalated through email notifications, and the project includes visualizations to analyze alert trends, suspicious IPs, protocols, and attack origins.
 
 # Features
 1. Authentication log generation and parsing
