@@ -28,15 +28,16 @@ his project is a SIEM-like security monitoring system built in Python to simulat
 
    
 # Detection Rules
-1. Host-Based Rules
-2. Brute Force Detection
-3. Unusual Login Time Detection
-4. Successful Login After Multiple Failures
-5. High Activity IP Detection
-6. Network-Based Rules
-7. High Network Activity Detection
-8. Suspicious Protocol Detection
-9. Large Packet Detection
+
+# Host-Based Rules :
+1. Brute Force Detection
+2. Unusual Login Time Detection
+3. Successful Login After Multiple Failures
+4. High Activity IP Detection   
+#  Network-Based Rules :
+1. High Network Activity Detection
+2. Suspicious Protocol Detection
+3. Large Packet Detection
 
 # Visualizations
 The project includes:
