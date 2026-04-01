@@ -75,7 +75,7 @@ The project includes:
 8. Alert types distribution
 
 # Project Structure
-
+```
 SIEM-Detection-System/
 │
 ├── notebooks/
@@ -97,6 +97,7 @@ SIEM-Detection-System/
 │
 ├── README.md
 └── requirements.txt
+```
 
 # Future Improvements
 . Isolation Forest anomaly detection
