@@ -47,7 +47,7 @@ def detect_threats(parsed_logs):
                 "details": "Successful login after multiple failures"
             })
 
-    # 🟡 High activity
+    # 🟡 High activity 
     for ip, count in total_activity.items():
         if count > 15:
             alerts.append({
